@@ -21,16 +21,7 @@ pip install matplotlib
 ```
 
 ##  How to Run the Script
-1. Clone the Repository:
-   ```
-   git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
-   ```
-2. Navigate to Directory:
-   ```bash 
-         cd Simple-Python-Mini-Projects/Blood\ Bank\ Management\ System
-   ```
-2. Run the Script:
-   ```bash 
+  ```bash 
          python blood_bank_management.py
    ```
 - Manage donor and recipient data, including blood types and availability.
